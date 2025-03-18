@@ -2,10 +2,12 @@
   "ExpandedNodes": [
     "",
     "\\images",
+    "\\_data",
     "\\_includes",
     "\\_includes\\head",
     "\\_layouts",
     "\\_pages"
   ],
+  "SelectedNode": "\\_pages\\about.md",
   "PreviewInSolutionExplorer": false
 }
