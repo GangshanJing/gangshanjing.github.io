@@ -3,24 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Gangshan Jing\\Documents\\GitHub\\gangshanjing.github.io\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Gangshan Jing\\Documents\\GitHub\\gangshanjing.github.io\\_includes\\head.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_includes\\head.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Gangshan Jing\\Documents\\GitHub\\gangshanjing.github.io\\_data\\navigation.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_data\\navigation.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Gangshan Jing\\Documents\\GitHub\\gangshanjing.github.io\\_pages\\about.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_pages\\about.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Gangshan Jing\\Documents\\GitHub\\gangshanjing.github.io\\_includes\\head\\custom.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_includes\\head\\custom.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Gangshan Jing\\Documents\\GitHub\\gangshanjing.github.io\\_includes\\sidebar.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_includes\\sidebar.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Gangshan Jing\\Documents\\GitHub\\gangshanjing.github.io\\_layouts\\default.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_layouts\\default.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Gangshan Jing\\Documents\\GitHub\\gangshanjing.github.io\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
@@ -45,10 +33,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Gangshan Jing\\Documents\\GitHub\\gangshanjing.github.io\\images\\android-chrome-512x512.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:images\\android-chrome-512x512.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Gangshan Jing\\Documents\\GitHub\\gangshanjing.github.io\\images\\android-chrome-192x192.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:images\\android-chrome-192x192.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
     }
   ],
   "DocumentGroupContainers": [
@@ -58,58 +42,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "sidebar.html",
-              "DocumentMoniker": "C:\\Users\\Gangshan Jing\\Documents\\GitHub\\gangshanjing.github.io\\_includes\\sidebar.html",
-              "RelativeDocumentMoniker": "_includes\\sidebar.html",
-              "ToolTip": "C:\\Users\\Gangshan Jing\\Documents\\GitHub\\gangshanjing.github.io\\_includes\\sidebar.html",
-              "RelativeToolTip": "_includes\\sidebar.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-03-18T14:41:16.851Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "default.html",
-              "DocumentMoniker": "C:\\Users\\Gangshan Jing\\Documents\\GitHub\\gangshanjing.github.io\\_layouts\\default.html",
-              "RelativeDocumentMoniker": "_layouts\\default.html",
-              "ToolTip": "C:\\Users\\Gangshan Jing\\Documents\\GitHub\\gangshanjing.github.io\\_layouts\\default.html",
-              "RelativeToolTip": "_layouts\\default.html",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-03-18T14:36:07.322Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "head.html",
-              "DocumentMoniker": "C:\\Users\\Gangshan Jing\\Documents\\GitHub\\gangshanjing.github.io\\_includes\\head.html",
-              "RelativeDocumentMoniker": "_includes\\head.html",
-              "ToolTip": "C:\\Users\\Gangshan Jing\\Documents\\GitHub\\gangshanjing.github.io\\_includes\\head.html",
-              "RelativeToolTip": "_includes\\head.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-03-18T14:34:28.522Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "custom.html",
-              "DocumentMoniker": "C:\\Users\\Gangshan Jing\\Documents\\GitHub\\gangshanjing.github.io\\_includes\\head\\custom.html",
-              "RelativeDocumentMoniker": "_includes\\head\\custom.html",
-              "ToolTip": "C:\\Users\\Gangshan Jing\\Documents\\GitHub\\gangshanjing.github.io\\_includes\\head\\custom.html",
-              "RelativeToolTip": "_includes\\head\\custom.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-03-18T14:30:18.903Z",
+              "Title": "navigation.yml",
+              "DocumentMoniker": "C:\\Users\\Gangshan Jing\\Documents\\GitHub\\gangshanjing.github.io\\_data\\navigation.yml",
+              "RelativeDocumentMoniker": "_data\\navigation.yml",
+              "ToolTip": "C:\\Users\\Gangshan Jing\\Documents\\GitHub\\gangshanjing.github.io\\_data\\navigation.yml",
+              "RelativeToolTip": "_data\\navigation.yml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2025-03-18T14:53:41.701Z",
               "EditorCaption": ""
             },
             {
@@ -120,14 +65,14 @@
               "RelativeDocumentMoniker": "_pages\\about.md",
               "ToolTip": "C:\\Users\\Gangshan Jing\\Documents\\GitHub\\gangshanjing.github.io\\_pages\\about.md",
               "RelativeToolTip": "_pages\\about.md",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
               "WhenOpened": "2025-03-18T13:13:52.486Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "README.md",
               "DocumentMoniker": "C:\\Users\\Gangshan Jing\\Documents\\GitHub\\gangshanjing.github.io\\README.md",
               "RelativeDocumentMoniker": "README.md",
@@ -140,7 +85,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 4,
               "Title": "favicon-32x32.png - PNG [32x32, 32 \u4F4D, PNG]",
               "DocumentMoniker": "C:\\Users\\Gangshan Jing\\Documents\\GitHub\\gangshanjing.github.io\\images\\favicon-32x32.png",
               "RelativeDocumentMoniker": "images\\favicon-32x32.png",
@@ -152,7 +97,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 5,
               "Title": "favicon-16x16.png - PNG [16x16, 32 \u4F4D, PNG]",
               "DocumentMoniker": "C:\\Users\\Gangshan Jing\\Documents\\GitHub\\gangshanjing.github.io\\images\\favicon-16x16.png",
               "RelativeDocumentMoniker": "images\\favicon-16x16.png",
@@ -164,7 +109,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 6,
               "Title": "cn.svg",
               "DocumentMoniker": "C:\\Users\\Gangshan Jing\\Documents\\GitHub\\gangshanjing.github.io\\images\\cn.svg",
               "RelativeDocumentMoniker": "images\\cn.svg",
@@ -172,12 +117,11 @@
               "RelativeToolTip": "images\\cn.svg",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAKMSURBVDhPjZNLSFRhFMd/3507M/dKPsacsYelWGZZFFJRkdSmNrUoatMiKggSN2YFEUX3MvQiiBYWtFAyggoXPSGyhQuhFrXQFr7GMFOowcZMUO9MM3pPi9Eao6gf/Bcfh3PO/5yPo8jAsqxI5vtvKKXuhMPhK4jInIBlWRH5Bw0NDYOWZUVs264B0DILKEUXCCIpZOIi7uetpHpCxN8GiffU4rrThEIhXzgcXiEidbZtH/5ZQKTV\u002B72oItjSYfG5vxwneoX2/iW80dvxb4ji9D4BIBAIeBsbG4fSOXJWzSR7qpt9D\u002BvWndpTlNXL2HCQ28PXaIuVEB2Dmsp8DiZqyN35FAFiw19IJpPcbmrq0wCq7\u002BvHd5Y\u002B2rMy5y3OcBXmqtccq9rB/uUFKI/GzfZRPhRdBhEQIRgKUlxSAoAm0uqtWNB5Yu\u002Bier5\u002BWOoWbnxAwAwQzDao3lLIobX5ePxemiImroCIzFm\u002BztT7/CPLzi8ej\u002BVxdeyu1nJjgMR3FwDl0fD4dJRHozuWACStjM/TGDlZ50tNqHuxejo\u002B\u002BZPL8wwqCvxUFPhZFfBSbIBMJti0wJjpDpJRQXfjzr6uj9u\u002BtYysCWijA4OPqzeXpVLJtE010zS9cZDM1DTa9ASLmoaOnh4cEYaySsoa30T5Mp5kPD7Ni\u002B5Rtt7qofzqO553jqQHmHExi5p8RcRNsb6y7VWtnm1ecjUdcdM7QClwhQPl8zi3o\u002BiXdREMMwvbtvv0KYfmRJSBtvlVY93O6ujLlc8WdsYcdE1RmutlV3kO20tzcXFRohBFerQ/ccE6c11EJB53xIk7EndmNSnObxIRsSwrMucWUvh2AxiGiWmYGOassjB/0yxzzPzvOWfyAyvlXYiiBFoWAAAAAElFTkSuQmCC",
-              "WhenOpened": "2025-03-18T13:22:45.706Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-18T13:22:45.706Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 7,
               "Title": "android-chrome-512x512.png - PNG [512x512, 32 \u4F4D, PNG]",
               "DocumentMoniker": "C:\\Users\\Gangshan Jing\\Documents\\GitHub\\gangshanjing.github.io\\images\\android-chrome-512x512.png",
               "RelativeDocumentMoniker": "images\\android-chrome-512x512.png",
@@ -189,7 +133,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 3,
               "Title": "_config.yml",
               "DocumentMoniker": "C:\\Users\\Gangshan Jing\\Documents\\GitHub\\gangshanjing.github.io\\_config.yml",
               "RelativeDocumentMoniker": "_config.yml",
@@ -197,20 +141,7 @@
               "RelativeToolTip": "_config.yml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
-              "WhenOpened": "2025-03-18T13:04:00.58Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "android-chrome-192x192.png - PNG [192x192, 32 \u4F4D, PNG]",
-              "DocumentMoniker": "C:\\Users\\Gangshan Jing\\Documents\\GitHub\\gangshanjing.github.io\\images\\android-chrome-192x192.png",
-              "RelativeDocumentMoniker": "images\\android-chrome-192x192.png",
-              "ToolTip": "C:\\Users\\Gangshan Jing\\Documents\\GitHub\\gangshanjing.github.io\\images\\android-chrome-192x192.png - PNG [192x192, 32 \u4F4D, PNG]",
-              "RelativeToolTip": "images\\android-chrome-192x192.png - PNG [192x192, 32 \u4F4D, PNG]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
-              "WhenOpened": "2025-03-18T13:22:39.235Z",
-              "EditorCaption": " - PNG [192x192, 32 \u4F4D, PNG]"
+              "WhenOpened": "2025-03-18T13:04:00.58Z"
             }
           ]
         }

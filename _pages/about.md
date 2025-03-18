@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 I am currently a professor at Chongqing University.
- <a href='https://scholar.google.com/citations?user=WMkMTb4AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a>。
+<!--  <a href='https://scholar.google.com/citations?user=WMkMTb4AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a>。-->
 
 My research interests include：
 - Multi-agent systems
@@ -39,12 +39,12 @@ My research interests include：
 <span class='anchor' id='-education'></span>
 
 # 🎓 Education
-- *2012.08 - 2018.09*, <a href="https://www.hust.edu.cn/"><img class="svg" src="/images/HUST_logo.svg" width="23pt"></a> PhD in Control Theory and Control Engineering, Xidian University, China
-- *2008.09 - 2012.06*, <a href="https://www.scu.edu.cn/"><img class="svg" src="/images/SCU_logo.svg" width="20pt"></a> B.S. in Applied Mathematics, Ningxia University, China
+- *2012.08 - 2018.09*,  PhD in Control Theory and Control Engineering, Xidian University, China
+- *2008.09 - 2012.06*,  B.S. in Applied Mathematics, Ningxia University, China
  
 
+<!--  <a href="https://www.scu.edu.cn/"><img class="svg" src="/images/SCU_logo.svg" width="20pt"></a>-->
 
-- 
 <span class='anchor' id='-papers'></span>
 
 # 📝 Papers
@@ -70,7 +70,7 @@ My research interests include：
 [[DOI]](https://dx.doi.org/10.1109/TAC.2024.3375248)  [[PDF]](http://www.jinglab.net/wp-content/uploads/2024/04/double.pdf)
 
 - `Gangshan Jing`, He Bai, Jemin George, Aranya Chakrabortty, Piyush K. Sharma. Asynchronous distributed reinforcement learning for LQR control via zeroth-order block coordinate descent,IEEE Transactions on Automatic Control (full paper). 2024, 69(11): 7524-7539.
-[[网页]](https://dx.doi.org/10.1109/TAC.2024.3386061) [[PDF]](http://43.135.158.176:32/wp-content/uploads/2023/09/Asynchronous-Distributed-Reinforcement-Learning-for-LQR-Control-via-Zeroth-Order-Block-Coordinate-Descent.pdf)
+[[DOI]](https://dx.doi.org/10.1109/TAC.2024.3386061) [[PDF]](http://43.135.158.176:32/wp-content/uploads/2023/09/Asynchronous-Distributed-Reinforcement-Learning-for-LQR-Control-via-Zeroth-Order-Block-Coordinate-Descent.pdf)
 
 - `Gangshan Jing`, Changhuang Wan, Ran Dai, Mehran Mesbahi. Design and transformation control of triangulated origami tessellation: a network perspective. *IEEE Transactions on Network Science and Engineering*. 2023, 11(1): 635-647.
 
