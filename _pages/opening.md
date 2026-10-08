@@ -34,7 +34,7 @@ nav_order: 7
     <p>Thank you for your interest in joining us! Our group is a part of the Systems Intelligence and Control Team (系统智能与控制团队) in School of Automation, Chongqing Unviersity. We focus on conducting innovative academic research associated with network systems. Although we provide platforms for both theoretical research and engineering practice, the main emphasis is always on innovation instead of just engineering skills training. Therefore, our group is best suited for students <strong>who want to pursue success on academics</strong>. </p>
     <p>We are actively seeking self-motivated students and postdoctoral researchers. Applicants from diverse backgrounds, especially automation, mathematics, mechanical engineering, aerospace engineering and computer science, are encouraged to apply.</p>
 
-    <p>本课题组同时在重庆大学自动化学院和数学与统计学院招收研究生。对于工科背景的同学，希望你已经积累了相当的机器人相关工程实践经验；对于数学背景的同学，希望你有扎实的数学基础和对机器人领域浓厚的兴趣。</p>
+    <p>本课题组同时在重庆大学自动化学院和数学与统计学院招收研究生，每年招收1-2名博士生，2-4名硕士生。对于工科背景的同学，希望你已经积累了相当的机器人相关工程实践经验；对于数学背景的同学，希望你有扎实的数学基础和对机器人领域浓厚的兴趣。</p>
 
     <strong>对于申请推荐免试研究生的同学，报名之前请先邮件联系。如果你发送的邮件没有收到回复，建议不要在系统里报名。</strong>.
 
