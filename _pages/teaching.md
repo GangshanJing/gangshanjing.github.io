@@ -9,7 +9,7 @@ nav_order: 6
 
 <div class="teaching-section" style="margin-bottom:2.5rem; padding:2rem; border-radius:1rem; box-shadow:0 2px 8px rgba(0,0,0,0.04);">
   <h2 style="color:#054469; margin-top:0;">📢 Upcoming Course</h2>
-  <p style="font-size:1.08rem; color:#054469;">In this semester (2026 Fall), I will introduce important questions in optimal control theory and its connection with reinforcement learning in the course "Advanced Control Theory and Applications". All are welcome!</p>
+  <p style="font-size:1.08rem; color:#054469;">In this semester (2026 Fall), I will introduce important questions in optimal control theory and their connections with reinforcement learning in the course "Advanced Control Theory and Applications". All are welcome!</p>
   <p style="font-size:1.05rem; color:#054469;">This course is scheduled for weeks 14-17, meeting every Monday morning (10:30 AM - 12:10 AM) and Thursday evening (19:00 PM - 20:40 PM), in room D1136 of the Huxi Campus Teaching Building.</p>
 </div>
 
