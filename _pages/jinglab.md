@@ -9,10 +9,10 @@ images:
   compare: true
   slider: true
   links:
-    - /projects/4_project/
+    - /projects/1_project/
     - /projects/2_project/
     - /projects/3_project/
-    - /projects/1_project/
+    - /projects/4_project/
 
 profile:
   align: right     
